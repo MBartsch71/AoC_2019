@@ -7,6 +7,6 @@ The SAP system is the: AS ABAP 752 SP01, developer edition
 # Content
 
 - Day 1: The Tyranny of the Rocket Equation
-  - Program name: [YMBH_AOC_20191201](/src/YMBH_AOC_20191201)
+  - Program name: [YMBH_AOC_20191201](/src/YMBH_AOC_20191201.prog.xml)
 - Day 2: 1202 Program Alarm 
-  - Program name: [YMBH_AOC_20191202](src/YMBH_AOC_20191202)
+  - Program name: [YMBH_AOC_20191202](src/YMBH_AOC_20191202.prog.xml)
