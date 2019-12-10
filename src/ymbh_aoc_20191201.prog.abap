@@ -96,7 +96,7 @@ CLASS ltcl_aoc1 IMPLEMENTATION.
                                                        ( sign = 'I' option = 'EQ' low = 1969 ) ).
 
     cl_abap_unit_assert=>assert_equals(
-        msg = 'Das Ergebnis sollte 51312 sein.'
+        msg = 'The result should be 51312.'
         exp = 51312
         act = mo_cut->calculate_fuel_from_table( lt_fuel_range ) ).
   ENDMETHOD.
