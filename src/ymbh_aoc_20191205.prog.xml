@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>YMBH_AOC_20191202</NAME>
+    <NAME>YMBH_AOC_20191205</NAME>
     <DBAPL>S</DBAPL>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
@@ -14,8 +14,14 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Advent of Code Dec. 2nd</ENTRY>
+     <ENTRY>Advent of Code Dec. 5th</ENTRY>
      <LENGTH>23</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_INPUT</KEY>
+     <ENTRY>Please enter a sequence</ENTRY>
+     <LENGTH>31</LENGTH>
     </item>
    </TPOOL>
   </asx:values>

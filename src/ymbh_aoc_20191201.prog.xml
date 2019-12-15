@@ -6,6 +6,7 @@
     <NAME>YMBH_AOC_20191201</NAME>
     <DBAPL>S</DBAPL>
     <SUBC>1</SUBC>
+    <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
@@ -13,8 +14,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>AoC 1.December</ENTRY>
-     <LENGTH>14</LENGTH>
+     <ENTRY>Advent of Code Dec. 1st</ENTRY>
+     <LENGTH>23</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
